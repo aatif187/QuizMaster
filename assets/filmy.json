@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Fill in the blank ‘I can talk English, I can walk English, I can _____ English’",
+        "2": "When US president Barack Obama visited India he made a reference to a popular Bollywood dialogue in his speech. What was the dialogue?",
+        "3": "Who is Gabbar talking to when he asks ‘Kitne Aadmi The’?",
+        "4": "‘It is so simple to be happy but it is so difficult to be simple’. Name the actor who said this dialogue in a popular Hrishikesh Mukerjee film?",
+        "5": "The dialogue ‘Ek machhar sala aadmi ko hijda bana deta hai!’ Is from which film?",
+        "6": "‘Kisi ko Itna mat darao ki darr hi khatam ho jaaye’ was said by which actress in a Bollywood film?",
+        "7": "Fill in the blank “22 tak padhai, 25 pe naukri, 26 pe _______?",
+        "8": "In Gangs of Wasseypur who says ’Beta tumse na ho payega’ ?",
+        "9": "Which of the following is not a dialogue from a Salman Khan film?",
+        "10": "Which movie is this dialogue from ‘Woh toh main kha gaya … woh main mast tel me fry karke, woh main kha gaya’?"
+    },
+    {
+        "1": {
+            "a": "BREATHE",
+            "b": "LAUGH",
+            "c": "EAT",
+            "d": "SLEEP"
+        },
+        "2": {
+            "a": "THAPPAD SE DARR NAHI..",
+            "b": "KITNE AADMI THE",
+            "c": "SENORITA, BADE BADE DESHON..",
+            "d": "HOW’S THE JOSH?"
+        },
+        "3": {
+            "a": "SAMBHA",
+            "b": "KAALIA",
+            "c": "THAKUR",
+            "d": "JAI"
+        },
+        "4": {
+            "a": "AMITABH BACHCHAN",
+            "b": "DHARMENDRA",
+            "c": "AMOL PALEKAR",
+            "d": "RAJESH KHANNA"
+        },
+        "5": {
+            "a": "YESHWANT",
+            "b": "KAALIA",
+            "c": "DAMINI",
+            "d": "TIRANGA"
+        },
+        "6": {
+            "a": "DEEPIKA PADUKONE",
+            "b": "SONAKSHI SINHA",
+            "c": "PRIYANKA CHOPRA",
+            "d": "KAREENA KAPOOR KHAN"
+        },
+        "7": {
+            "a": "PYAAR",
+            "b": "CHHOKRI",
+            "c": "SHAADI",
+            "d": "PROMOTION"
+        },
+        "8": {
+            "a": "SARDAR KHAN",
+            "b": "RAMADHIR SINGH",
+            "c": "FAIZAL KHAN",
+            "d": "SHAMSHAD"
+        },
+        "9": {
+            "a": "JO JIJAJI BOLENGE..",
+            "b": "DEVIL AAP KE PEECHHE..",
+            "c": "DOSTI KA EK USOOL HAI..",
+            "d": "JO MAIN BOLTA HOON.."
+        },
+        "10": {
+            "a": "WELCOME",
+            "b": "HERA PHERI",
+            "c": "HOUSEFUL",
+            "d": "ANDAZ APNA APNA"
+        }
+    },
+    {
+        "1": "LAUGH",
+        "2": "SENORITA, BADE BADE DESHON..",
+        "3": "KAALIA",
+        "4": "RAJESH KHANNA",
+        "5": "YESHWANT",
+        "6": "PRIYANKA CHOPRA",
+        "7": "CHHOKRI",
+        "8": "RAMADHIR SINGH",
+        "9": "JO MAIN BOLTA HOON WOH..",
+        "10": "HERA PHERI"
+    }
+]

@@ -1,0 +1,89 @@
+  
+[
+    {
+        "1": "In which year Shah Rukh Khan debuted on TV ?",
+        "2": "How many times SRK has played Rahul in his films ?",
+        "3": "For which film, SRK won his first Filmfare award ?",
+        "4": "What's the name of Shah Rukh Khan's bungalow in Mumbai ?",
+        "5": "SRK is scared of...?",
+        "6": "SRK and Gauri celebrate their marriage anniversary on..?",
+        "7": "Shah Rukh Khan and Juhi Chawla have worked together in how many films ?",
+        "8": "SRK's character was called Hero in..?",
+        "9": "What is Ascocenda Shah Rukh Khan ?",
+        "10": "Which was the first brand SRK endorsed ?"
+    },
+    {
+        "1": {
+            "a": "1987",
+            "b": "1988",
+            "c": "1989",
+            "d": "1990"
+        },
+        "2": {
+            "a": "6",
+            "b": "7",
+            "c": "8",
+            "d": "9"
+        },
+        "3": {
+            "a": "Deewana",
+            "b": "Baazigar",
+            "c": "Darr",
+            "d": "DDLJ"
+        },
+        "4": {
+            "a": "Jannat",
+            "b": "Gauri-Villa",
+            "c": "Kayanaat",
+            "d": "Mannat"
+        },
+        "5": {
+            "a": "Dancing",
+            "b": "Speaking on stage",
+            "c": "Riding Horses",
+            "d": "Snakes"
+        },
+        "6": {
+            "a": "October 25",
+            "b": "November 25",
+            "c": "December 25",
+            "d": "January 25"
+        },
+        "7": {
+            "a": "9",
+            "b": "10",
+            "c": "11",
+            "d": "12"
+        },
+        "8": {
+            "a": "Raju Ban Gya Gentleman",
+            "b": "Maya Memsahab",
+            "c": "Om Shanti Om",
+            "d": "Oh Darling ye hai India"
+        },
+        "9": {
+            "a": "A flower named after him",
+            "b": "It's a South African snake",
+            "c": " It's the name of his Ferrari",
+            "d": "Name of SRK's body double"
+        },
+        "10": {
+            "a": "Pepsi",
+            "b": "Liberty",
+            "c": "Mayur",
+            "d": "Fair And Handsome"
+        }
+    },
+    {
+        "1": "1988",
+        "2": "7",
+        "3": "Deewana",
+        "4": "Mannat",
+        "5": "Riding Horses",
+        "6": "October 25",
+        "7": "11",
+        "8": "Oh Darling ye hai India",
+        "9": "A flower named after him",
+        "10": "Liberty"
+    }
+]

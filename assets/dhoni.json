@@ -1,0 +1,89 @@
+[
+    {
+        
+        "1": "How many times has MS Dhoni remained not-out in a successful chase in One Day Internationals?",
+        "2": "How many matches has Dhoni lost as captain in the ODI World Cup?",
+        "3": "How many runs has Dhoni scored in all the IPL 20th overs he has played?",
+        "4": "How many centuries has Dhoni scored while playing at number 7 in the ODIs?",
+        "5": "Which railway zone did Dhoni work for, as a TTE? ",
+        "6": "Which team did Dhoni make his Ranji trophy debut for?",
+        "7": "How many innings has MS Dhoni played as a bowler, in international cricket?",
+        "8": "Apart from cricket, Dhoni is also a big fan of football. Which other sport did he play apart from these two?",
+        "9": "Dhoni once revealed his favourite dog out of all the pets he has. What's its name?",
+        "10": "Dhoni holds the highest 8th wicket ODI partnership record for India with this player. Who is he?"
+    },
+    {
+        "1": {
+            "a": "41",
+            "b": "47",
+            "c": "45",
+            "d": "48"
+        },
+        "2": {
+            "a": "2",
+            "b": "3",
+            "c": "4",
+            "d": "5"
+        },
+        "3": {
+            "a": "564",
+            "b": "596",
+            "c": "514",
+            "d": "498"
+        },
+        "4": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "5": {
+            "a": "Central Indian Railways",
+            "b": "Eastern Indian Railways",
+            "c": "Western Indian Railways",
+            "d": "South Eastern Railways"
+        },
+        "6": {
+            "a": "Bengal",
+            "b": "Chhattisgarh",
+            "c": "Railways",
+            "d": "Bihar"
+        },
+        "7": {
+            "a": "5",
+            "b": "6",
+            "c": "9",
+            "d": "10"
+        },
+        "8": {
+            "a": "Volleyball",
+            "b": "Badminton",
+            "c": "Kabaddi",
+            "d": "Hockey"
+        },
+        "9": {
+            "a": "Zoya",
+            "b": "Sam",
+            "c": "Lilly",
+            "d": "Gabbar"
+        },
+        "10": {
+            "a": "Ravichandran Ashwin",
+            "b": "Kuldeep Yadav",
+            "c": "Hardik Pandya ",
+            "d": "Bhuvneshwar Kumar"
+        }
+    },
+    {
+        "1": "47",
+        "2": "2",
+        "3": "564",
+        "4": "2",
+        "5": "South Eastern Railways",
+        "6": "Bihar ",
+        "7": "9",
+        "8": "Badminton",
+        "9": "Sam",
+        "10": "Bhuvneshwar Kumar"
+    }
+]

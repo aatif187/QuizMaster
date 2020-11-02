@@ -1,0 +1,88 @@
+[
+    {
+        "1": "When was IPL started?",
+        "2": "Which player has made highest numbers of runs in IPL history?",
+        "3": "Which player has taken most numbers of wickets in IPL so far?",
+        "4": "Which team has never won the IPL tournament?",
+        "5": "Maximum how many foreign players can play in the playing eleven of the IPL match?",
+        "6": "Who has hit most sixes in all the IPL tournaments?",
+        "7": "Which team has won highest numbers of IPL matches so far?",
+        "8": "Which player has taken most numbers of hat-tricks in the IPL so far?",
+        "9": "Who has taken most catches in the IPL history so far?",
+        "10":"In the history of IPL, Which of the following player got out at the zero (most ducks)?"
+    },
+    {
+        "1": {
+            "a": "2008",
+            "b": "2009",
+            "c": "2007",
+            "d": "2006"
+        },
+        "2": {
+            "a": "Suresh Raina",
+            "b": "Virat Kohli",
+            "c": "Chris Gayle",
+            "d": "Murli Vijay"
+        },
+        "3": {
+            "a": "Lasith Malinga",
+            "b": "Ravindra Jadeja",
+            "c": "Zaheer Khan",
+            "d": "None of the above"
+        },
+        "4": {
+            "a": "Deccan Chargers",
+            "b": "Sunrisers Hyderabad",
+            "c": "Rajasthan Royals",
+            "d": "Royal Challengers Bangalore"
+        },
+        "5": {
+            "a": "3",
+            "b": "5",
+            "c": "4",
+            "d": "Not fixed"
+        },
+        "6": {
+            "a": "Rohit Sharma",
+            "b": "Suresh Raina",
+            "c": "Chris Gayle",
+            "d": "AB de Villiers"
+        },
+        "7": {
+            "a": "CSK",
+            "b": "MI",
+            "c": "RCB",
+            "d": "KKR"
+        },
+        "8": {
+            "a": "Yuvraj Singh",
+            "b": "Praveen Kumar",
+            "c": "Amit Mishra",
+            "d": "Shane Watson"
+        },
+        "9": {
+            "a": "Suresh Raina",
+            "b": "AB de Villiers",
+            "c": "Rohit Sharma",
+            "d": "Dwayne Bravo"
+        },
+        "10": {
+            "a": "Harbhajan Singh",
+            "b": "Ishant Sharma",
+            "c": "L. Balaji",
+            "d": "Bhuvneshwar Kumar"
+        }
+    },
+    {
+        "1": "2007",
+        "2": "Virat Kohli",
+        "3": "Lasith Malinga",
+        "4": "Royal Challengers Bangalore",
+        "5": "4",
+        "6": "Chris Gayle",
+        "7": "MI",
+        "8": "Amit Mishra",
+        "9": "Suresh Raina",
+        "10": "Harbhajan Singh"
+    }
+]
